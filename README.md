@@ -11,7 +11,7 @@ Flow.js, future node.js library for database manipulation and database descripti
                 
                 id: Number,
                 name: String,
-                aplha: Flow.Char
+                char: Flow.Char
 
             };
             
